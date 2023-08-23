@@ -1,5 +1,9 @@
 # Frontend Mentor Challenge Solutions
-Välkommen till min samling av lösningar för utmaningar från [Frontend Mentor](https://www.frontendmentor.io/). Här hittar du mina implementationer av olika designutmaningar tillsammans med länkar till live-versioner och källkod.  
+Välkommen till min samling av lösningar för utmaningar från [Frontend Mentor](https://www.frontendmentor.io/). Här hittar du mina implementationer av olika designutmaningar tillsammans med länkar till live-versioner och källkod.    
+
+## Live Demo
+
+Projektet kan ses live på: [https://louisenorrsen.github.io/portfolio-frontend/](https://louisenorrsen.github.io/portfolio-frontend/)  
 
 ## Installation
 
